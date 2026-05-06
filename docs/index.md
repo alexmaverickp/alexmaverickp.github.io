@@ -18,7 +18,7 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
+  <img src="assets/images/IMG_2631.JPG" alt="[YOUR NAME]" class="profile-photo">
   <h1>[YOUR NAME]</h1>
   <p><strong>[YOUR JOB TITLE]</strong></p>
   <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
@@ -44,7 +44,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 </div>
 
 <div class="about-image">
-  <img src="assets/images/about.png" alt="About">
+  <img src="assets/images/IMG_2124.JPG" alt="About">
 </div>
 
 </div>
@@ -52,7 +52,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Alex Maverick Pabillaran Resume.pdf){ .md-button }
 
 
 ---
