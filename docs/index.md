@@ -18,9 +18,9 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/IMG_2631.JPG" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
+  <img src="assets/images/IMG_2631.JPG" alt="Alex Maverick" class="profile-photo">
+  <h1>Alex Maverick</h1>
+  <p><strong>GIS and Remote Sensing Expert</strong></p>
   <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
 </div>
 
