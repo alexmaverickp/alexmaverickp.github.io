@@ -30,8 +30,7 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="about-section" markdown>
 <div class="about-text" markdown>
-
-
+  
 I am an Agricultural and Biosystems Engineer specializing in GIS, Remote Sensing, and geospatial analytics for climate-smart agriculture and environmental systems.
 I work on transforming satellite imagery and spatial datasets into actionable insights using QGIS, Google Earth Engine, and open-source geospatial technologies.
 My work focuses on agricultural mapping, land suitability analysis, watershed and climate monitoring, and decision-support systems for resilient farming communities.
