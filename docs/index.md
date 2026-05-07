@@ -125,5 +125,5 @@ and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial 
 
 ## Connect
 
-[GitHub](https://github.com/[alexmaverickp]){ .md-button }
+[GitHub](https://github.com/[alexmaverickp.github.io]){ .md-button }
 [LinkedIn](https://linkedin.com/in/alex-m-p/){ .md-button }
