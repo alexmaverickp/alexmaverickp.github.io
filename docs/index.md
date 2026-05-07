@@ -19,9 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/IMG_2631.JPG" alt="Alex Maverick" class="profile-photo">
-  <h1>Alex Maverick</h1>
+  <h1>Alex Maverick Pabillaran</h1>
   <p><strong>GIS and Remote Sensing Expert</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <p><em>Geospatial Intelligence for Climate-Smart Agriculture
+Agricultural & Biosystems Engineer specializing in GIS, Remote Sensing, and Earth Observation using QGIS and Google Earth Engine</em></p>
 </div>
 
 ---
@@ -35,11 +36,11 @@ CHECKLIST FOR THIS PAGE:
 what you specialize in, the kinds of problems you work on, the tools and methods you use,
 and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am an Agricultural and Biosystems Engineer specializing in GIS, Remote Sensing, and geospatial analytics for climate-smart agriculture and environmental systems.
+I work on transforming satellite imagery and spatial datasets into actionable insights using QGIS, Google Earth Engine, and open-source geospatial technologies.
+My work focuses on agricultural mapping, land suitability analysis, watershed and climate monitoring, and decision-support systems for resilient farming communities.
+I am passionate about applying geospatial intelligence and Earth observation technologies to real-world challenges in food security, sustainability, and climate resilience,
+and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial Analytics roles in both local and international environments.
 
 </div>
 
@@ -65,51 +66,62 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - QGIS
+    - Google Earth Engine (GEE)
+    - Remote Sensing Analysis
+    - Land Use / Land Cover (LULC) Mapping
+    - Spatial Analysis & Suitability Mapping
+    - Watershed Delineation & Hydrological Analysis
+    - Raster & Vector Geoprocessing
+    - Cartography & Map Layout Design
 
--   :material-code-braces:{ .lg .middle } **Programming**
-
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+-   :material-code-braces:{ .lg .middle } **Climate & Environmental Analytics**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - NDVI & Vegetation Health Analysis
+    - Rainfall & Climate Data Processing
+    - Soil Moisture Mapping
+    - Terrain & Slope Analysis
+    - Agricultural & Environmental Monitoring
+    - Climate-Smart Agriculture Applications
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-star-four-points:{ .lg .middle } **Data Analytics & Geospatial Data**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Google Sheets & Microsoft Excel Analytics
+    - Data Cleaning & Validation
+    - Geospatial Data Management
+    - GeoJSON, GeoTIFF, Shapefile
+    - OpenStreetMap & Open Geospatial Datasets
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-earth:{ .lg .middle } **Drone & Field Applications**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    ---
+
+    - UAV Mission Planning
+    - Drone-based Agricultural Monitoring
+    - DJI Mavic 3 Air Operations
+    - Field Data Collection & Ground Validation
+
+-   :material-database:{ .lg .middle } **Agriculture & Decision Support**
+
+    ---
+
+    - Agricultural Resource Mapping
+    - Land Suitability Analysis
+    - Water Resources & Watershed Applications
+    - GIS for Food Security & Sustainability
+    - Decision Support for Climate-Resilient Agriculture
+
+-   :material-airplane:{ .lg .middle } **Remote Sensing & Image Classification**
+
+    - Unsupervised Classification in Google Earth Engine
+    - Supervised Classification using Google Earth Engine
+    - Satellite Image Interpretation & Analysis
+    - Sentinel-1 & Sentinel-2 Data Processing
+
 </div>
 
 
@@ -117,5 +129,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/[alexmaverickp]){ .md-button }
+[LinkedIn](https://linkedin.com/in/alex-m-p/){ .md-button }
