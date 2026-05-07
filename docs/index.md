@@ -20,9 +20,8 @@ CHECKLIST FOR THIS PAGE:
 <div class="hero">
   <img src="assets/images/IMG_2631.JPG" alt="Alex Maverick" class="profile-photo">
   <h1>Alex Maverick Pabillaran</h1>
-  <p><strong>GIS and Remote Sensing Expert</strong></p>
-  <p><em>Geospatial Intelligence for Climate-Smart Agriculture
-Agricultural & Biosystems Engineer specializing in GIS, Remote Sensing, and Earth Observation using QGIS and Google Earth Engine</em></p>
+  <p><strong>Geospatial Intelligence for Climate-Smart Agriculture</strong></p>
+  <p><em>Agricultural & Biosystems Engineer specializing in GIS, Remote Sensing, and Earth Observation using QGIS and Google Earth Engine</em></p>
 </div>
 
 ---
@@ -32,9 +31,6 @@ Agricultural & Biosystems Engineer specializing in GIS, Remote Sensing, and Eart
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
 
 I am an Agricultural and Biosystems Engineer specializing in GIS, Remote Sensing, and geospatial analytics for climate-smart agriculture and environmental systems.
 I work on transforming satellite imagery and spatial datasets into actionable insights using QGIS, Google Earth Engine, and open-source geospatial technologies.
@@ -62,7 +58,7 @@ and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial 
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   :material-map-search:{ .lg .middle } **GIS & Remote Sensing**
 
     ---
 
@@ -75,7 +71,7 @@ and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial 
     - Raster & Vector Geoprocessing
     - Cartography & Map Layout Design
 
--   :material-code-braces:{ .lg .middle } **Climate & Environmental Analytics**
+-   :material-earth:{ .lg .middle } **Climate & Environmental Analytics**
 
     ---
 
@@ -86,7 +82,7 @@ and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial 
     - Agricultural & Environmental Monitoring
     - Climate-Smart Agriculture Applications
 
--   :material-star-four-points:{ .lg .middle } **Data Analytics & Geospatial Data**
+-   :material-database:{ .lg .middle } **Data Analytics & Geospatial Data**
 
     ---
 
@@ -96,7 +92,7 @@ and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial 
     - GeoJSON, GeoTIFF, Shapefile
     - OpenStreetMap & Open Geospatial Datasets
 
--   :material-earth:{ .lg .middle } **Drone & Field Applications**
+-   :material-drone:{ .lg .middle } **Drone & Field Applications**
 
     ---
 
@@ -105,7 +101,7 @@ and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial 
     - DJI Mavic 3 Air Operations
     - Field Data Collection & Ground Validation
 
--   :material-database:{ .lg .middle } **Agriculture & Decision Support**
+-   :material-sprout:{ .lg .middle } **Agriculture & Decision Support**
 
     ---
 
@@ -115,7 +111,7 @@ and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial 
     - GIS for Food Security & Sustainability
     - Decision Support for Climate-Resilient Agriculture
 
--   :material-airplane:{ .lg .middle } **Remote Sensing & Image Classification**
+-   :material-satellite-variant:{ .lg .middle } **Remote Sensing & Image Classification**
 
     - Unsupervised Classification in Google Earth Engine
     - Supervised Classification using Google Earth Engine
