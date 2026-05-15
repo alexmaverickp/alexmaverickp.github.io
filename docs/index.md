@@ -18,7 +18,7 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/IMG_2963.HEIC" alt="Alex Maverick" class="profile-photo">
+  <img src="assets/images/magick IMG_2963.HEIC IMG_2963.JPG" alt="Alex Maverick" class="profile-photo">
   <h1>Alex Maverick Pabillaran</h1>
   <p><strong>Geospatial Intelligence for Climate-Smart Agriculture</strong></p>
   <p><em>Agricultural & Biosystems Engineer specializing in GIS, Remote Sensing, and Earth Observation using QGIS and Google Earth Engine</em></p>
