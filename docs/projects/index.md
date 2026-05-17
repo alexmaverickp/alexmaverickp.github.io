@@ -22,7 +22,9 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 **[Nature-based Solution: Proposed Riparian Buffer Restoration and Protection Strategy for Pulangui River Basin, Bukidnon](pulangui.md)**
 
-This project proposes a nature-based riparian buffer restoration and protection strategy for the Pulangui River Basin in Bukidnon, Philippines, using GIS and remote sensing to identify degraded zones and prioritize restoration areas. The work aims to support sustainable watershed management through evidence-based, spatially explicit planning. This project was submitted to a competition organized by Geographic Innovations for Development Solutions, Inc. on Nature-based Solutions in your locality, and was awarded a Consolation Prize.
+This project proposes a nature-based riparian buffer restoration and protection strategy for the Pulangui River Basin in Bukidnon, Philippines, using GIS-based watershed analysis to identify sediment-prone and degraded riparian zones requiring ecological restoration. The workflow integrates terrain analysis, hydrologic modeling, land cover exposure, and riparian buffer assessment to support flood resilience and sustainable watershed management through spatially explicit planning.
+
+The project was developed as an entry to the Geographic Innovations for Development Solutions, Inc. (GRIDS) Mapping Contest with the theme: Enhancing flood management and resilience through nature-based solutions, and was awarded a Consolation Prize.
 
 `QGIS` `Google Earth Engine` `ChatGPT Plus`
 
