@@ -18,7 +18,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/pulangui.png)
 
 **[Nature-based Solution: Proposed Riparian Buffer Restoration and Protection Strategy for Pulangui River Basin, Bukidnon](pulangui.md)**
 
