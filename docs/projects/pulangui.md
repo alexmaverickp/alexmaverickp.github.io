@@ -1,135 +1,90 @@
----
-layout: project
-title: "Nature-Based Solution: Proposed Riparian Buffer Restoration and Protection Strategy"
-date: 2026-03-01
-description: "A GIS-based watershed analysis project identifying sediment-prone and degraded riparian zones within the Pulangi River Basin to support flood resilience through nature-based solutions."
-img: assets/images/pulangui.png
-importance: 1
-category: geospatial-analysis
----
+# Nature-based Solution: Proposed Riparian Buffer Restoration and Protection Strategy for Pulangui River Basin, Bukidnon
+
+![Project overview image](../assets/images/pulangui.png)
 
 ## Overview
 
-Flooding and river siltation within the Pulangi River Basin are strongly influenced by upstream erosion, degraded riparian corridors, and sediment transport processes. This project applies GIS-based spatial analysis to identify erosion-prone areas and prioritize riparian restoration zones using a Nature-Based Solutions (NbS) approach.
+This project proposes a nature-based riparian buffer restoration and protection strategy for the Pulangui River Basin in Bukidnon, Philippines, using GIS-based watershed analysis to identify sediment-prone and degraded riparian zones requiring ecological restoration. The workflow integrates terrain analysis, hydrologic modeling, land cover exposure, and riparian buffer assessment to support flood resilience and sustainable watershed management through spatially explicit planning.
 
-The workflow integrates terrain analysis, hydrologic modeling, land cover exposure, and riparian buffer assessment to support risk-informed restoration planning for watershed resilience and flood mitigation in Bukidnon, Philippines.
+The project was developed as an entry to the Geographic Innovations for Development Solutions, Inc. (GRIDS) Mapping Contest with the theme: *Enhancing flood management and resilience through nature-based solutions*, and was awarded a **Consolation Prize**.
 
-This project was developed using entirely open-source geospatial workflows in QGIS and SAGA GIS.
-
----
-
-## Study Area
-
-**Pulangi River Basin, Bukidnon, Philippines**
-
-The Pulangi River Basin is one of the major river systems in Mindanao and plays a critical role in agriculture, water resources, and downstream hydrologic stability. Increasing land cover disturbance and riparian degradation contribute to sediment generation and river instability, making the basin suitable for watershed-scale restoration prioritization.
+**Study Area:** Pulangui River Basin, Bukidnon, Philippines  
+**Duration:** 2026  
+**Role:** Team Lead / GIS & Remote Sensing Analyst  
+**Status:** Completed
 
 ---
 
-## Project Objectives
+## Methods & Tools
 
-- Identify areas with elevated sediment susceptibility across the watershed
-- Detect degraded riparian corridors requiring ecological restoration
-- Prioritize restoration zones using spatial risk analysis
-- Support flood resilience planning through Nature-Based Solutions (NbS)
-
----
-
-## Methodology
-
-### 1. Basin-Scale Sediment Susceptibility Modeling
-
-A **Sediment Susceptibility Index (SSI)** was developed using three measurable watershed components:
-
-- Slope gradient
-- Flow accumulation (runoff convergence)
-- Land cover exposure
-
-Normalized raster layers were combined through weighted overlay analysis to identify erosion-prone and sediment-generating areas within the basin.
-
-The SSI workflow avoided unsupported assumptions commonly used in generalized erosion models by relying only on observable and spatially measurable terrain and land cover variables.
-
----
-
-### 2. Riparian Restoration Prioritization
-
-A **30-meter riparian buffer** was generated along extracted stream networks to represent ecologically sensitive river corridors.
-
-Restoration priority zones were identified by intersecting:
-
-- High sediment susceptibility areas
-- Degraded land cover classes
-- Riparian buffer zones
-
-The resulting priority surface highlights areas where erosion risk and ecological disturbance coincide, guiding strategic riparian restoration and riverbank stabilization efforts.
-
----
-
-## Data Sources
+### Data Sources
 
 - Copernicus DEM 30m
-- HydroATLAS / HydroSHEDS
+- HydroATLAS / HydroSHEDS river datasets
 - ESRI Sentinel-2 Land Cover 2024
-- OpenStreetMap Basemap
 - Google Satellite Imagery (visual validation)
+- OpenStreetMap basemap
+
+### Processing Steps
+
+1. Generated terrain derivatives including slope and flow accumulation from DEM data
+2. Extracted stream networks and delineated a 30-meter riparian buffer corridor
+3. Reclassified land cover to identify exposed and degraded riparian areas
+4. Developed a Sediment Susceptibility Index (SSI) using:
+   - Slope gradient
+   - Flow accumulation (runoff convergence)
+   - Land cover exposure
+5. Applied raster normalization and weighted overlay analysis to generate basin-scale sediment susceptibility
+6. Intersected susceptibility outputs with degraded riparian zones to generate a risk-informed restoration priority map
+7. Performed visual validation using high-resolution satellite imagery
+
+### Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| QGIS | Spatial analysis, raster processing, hydrologic modeling, and map production |
+| SAGA GIS | Terrain analysis and hydrologic processing |
+| GDAL | Raster processing and proximity analysis |
+| Google Earth Engine | Land cover data access and satellite-based validation support |
 
 ---
 
-## Software & Tools
+## Key Findings
 
-- QGIS
-- SAGA GIS
-- GDAL
-- Google Earth Engine
-- ChatGPT Plus
-
----
-
-## Key Outputs
-
-### Basin-Scale Sediment Susceptibility Surface
-
-This output identifies areas with elevated potential for sediment generation, a major contributor to river siltation and downstream flood intensity.
-
-![Sediment Susceptibility Map](../assets/images/pulangui.png)
+- Produced a basin-scale Sediment Susceptibility Index (SSI) classified into four levels: Low, Moderate, High, and Very High
+- Identified erosion-prone and sediment-generating zones influencing downstream flood behavior
+- Delineated a 30-meter riparian restoration corridor and generated a risk-informed restoration priority map
+- High-priority zones were concentrated in degraded riparian areas adjacent to streams and exposed land cover
+- Forested riparian regions generally exhibited lower restoration priority due to reduced erosion exposure
+- Developed a spatially explicit framework supporting nature-based watershed restoration and flood resilience planning
 
 ---
 
-### Risk-Informed Riparian Restoration Priority
+## Project Outputs
 
-This output prioritizes restoration zones within a 30-meter riparian corridor where sediment susceptibility and degraded land cover intersect.
+### 1. Basin-Scale Sediment Susceptibility Mapping
 
-High-priority areas indicate locations where restoration may provide the greatest ecological and hydrologic benefits.
+The first output identifies areas within the Pulangui River Basin with elevated potential for sediment generation, a major contributor to river siltation and flood intensity. The Sediment Susceptibility Index integrates slope, flow convergence, and land cover exposure to reveal erosion-prone zones influencing watershed stability.
 
----
+### 2. Risk-Informed Riparian Restoration Priority Mapping
 
-## Key Insights
-
-- High sediment susceptibility frequently aligns with exposed and disturbed river corridors
-- Forested regions generally exhibit lower restoration priority due to reduced erosion exposure
-- Priority restoration zones cluster near stream-adjacent agricultural and degraded landscapes
-- Riparian restoration can serve as a strategic Nature-Based Solution for reducing sediment delivery and improving watershed resilience
+The second output prioritizes restoration zones within a 30-meter riparian corridor by intersecting sediment susceptibility with degraded land cover. High-priority areas represent locations where erosion risk and ecological disturbance coincide, guiding strategic restoration to reduce sediment delivery, stabilize riverbanks, and enhance flood resilience.
 
 ---
 
-## Validation
+## Recognition
 
-Spatial outputs were visually validated using high-resolution satellite imagery to assess correspondence between modeled high-priority areas and observable riparian disturbance patterns.
-
-Validation showed that many high-priority zones coincided with exposed riverbanks, cultivated floodplains, and degraded vegetation corridors.
+> 🏅 **Consolation Prize** — Geographic Innovations for Development Solutions, Inc. (GRIDS) Nature-based Solutions Mapping Contest (2026)
 
 ---
 
-## Relevance to Nature-Based Solutions (NbS)
+## Key Skills Demonstrated
 
-This project demonstrates how GIS and spatial analysis can support proactive watershed management through ecological restoration strategies rather than purely structural flood interventions.
-
-By identifying where riparian restoration may produce the greatest watershed benefit, the project contributes to:
-
-- Flood resilience enhancement
-- Sediment reduction
-- Riverbank stabilization
-- Watershed protection
-- Ecosystem restoration planning
-
----
+- Watershed-scale spatial analysis
+- Hydrologic terrain modeling
+- Sediment susceptibility assessment
+- Riparian buffer analysis
+- Raster normalization and weighted overlay
+- Nature-based solutions (NbS) planning
+- Scientific cartographic design
+- GIS storytelling and environmental visualization
