@@ -21,9 +21,9 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[alexmaverickpabillaran@gmail.com]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/alexmaverickp) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/alex-m-p/) |
+| :material-email: **Email** | [alexmaverickpabillaran@gmail.com](mailto:[alexmaverickpabillaran@gmail.com]) |
+| :fontawesome-brands-github: **GitHub** | [github.com/alexmaverickp](https://github.com/alexmaverickp) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/alex-m-p/](https://linkedin.com/in/alex-m-p/) |
 
 ---
 
