@@ -20,12 +20,11 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)
 
-**[Sample Project](sample-project.md)**
+**[Nature-based Solution: Proposed Riparian Buffer Restoration and Protection Strategy for Pulangui River Basin, Bukidnon](pulangui.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+This project proposes a nature-based riparian buffer restoration and protection strategy for the Pulangui River Basin in Bukidnon, Philippines, using GIS and remote sensing to identify degraded zones and prioritize restoration areas. The work aims to support sustainable watershed management through evidence-based, spatially explicit planning. This project was submitted to a competition organized by Geographic Innovations for Development Solutions, Inc. on Nature-based Solutions in your locality, and was awarded a Consolation Prize.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`QGIS` `Google Earth Engine`
 
 [View Project →](sample-project.md){ .md-button }
 </div>
