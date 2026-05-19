@@ -77,6 +77,7 @@ nav:
   - Projects:
     - "All Projects": projects/index.md
     - "Nature-based Solution: Proposed Riparian Buffer Restoration and Protection Strategy for Pulangui River Basin, Bukidnon": projects/pulangui.md
+    - "Automatic Weather Station Suitability Map": aws-suitability.md
     - "Remote Sensing NDVI Tool": projects/ndvi-tool.md
     - "Unsupervised Land Cover Classification": projects/unsupervised-classification.md
     # HOW TO ADD A NEW PROJECT:

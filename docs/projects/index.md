@@ -24,6 +24,18 @@ The project was developed as an entry to the Geographic Innovations for Developm
 </div>
 
 <div class="project-card" markdown>
+![](../assets/images/AWSport.png)
+
+**[Automatic Weather Station Suitability Map](aws-suitability.md)**
+
+A GIS-based site suitability analysis identifying the most suitable locations for establishing Automatic Weather Stations (AWS) across the Province of Bukidnon, Philippines. Using the Analytic Hierarchy Process (AHP) as the multi-criteria decision framework, five spatial criteria were weighted and combined to produce a final suitability map classified into four levels — from Not Suitable to Highly Suitable — covering all municipalities of Bukidnon. The output is intended to support data-driven decision-making for weather monitoring infrastructure placement.
+
+`QGIS` `Google Earth Engine` `ChatGPT Plus` 
+
+[View Project →](aws-suitability.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
 ![](../assets/images/NDVIapp.png)
 
 **[Remote Sensing NDVI Tool](ndvi-tool.md)**
