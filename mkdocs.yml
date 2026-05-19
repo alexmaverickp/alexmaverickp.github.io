@@ -3,7 +3,7 @@
 # Edit all lines marked [YOUR ...] to customize your site
 # ============================================================
 
-site_name: "Alex Maverick - Geospatial Portfolio"
+site_name: "Alex's Geospatial Portfolio"
 site_description: "Portfolio of Alex Maverick — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "Alex Maverick"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
@@ -55,16 +55,16 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: "Copyright &copy; [YOUR NAME]"
+copyright: "Copyright &copy; Alex Maverick Pabillaran"
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/[YOUR-GITHUB-USERNAME]
+      link: https://github.com/alexmaverickp
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]
+      link: https://linkedin.com/in/alex-m-p/
     - icon: material/email
-      link: mailto:[YOUR-EMAIL-ADDRESS]
+      link: mailto:alexmaverickpabillaran@gmail.com
 
 
 plugins:

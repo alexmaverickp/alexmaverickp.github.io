@@ -1,18 +1,23 @@
 /* Profile photo on the Home page */
 .profile-photo {
-  border-radius: 50%;
+  border-radius: 30%;
   width: 160px;
   height: 160px;
   object-fit: cover;
   display: block;
-  margin: 0 auto 0.75rem auto;
+  margin: 0 auto 0 auto;
 }
 
 /* Hero section on the Home page */
 .hero {
   text-align: center;
   padding: 1rem 1rem 1.25rem 1rem;
-  background: linear-gradient(135deg, #e8f4f8 0%, #f0f7ff 50%, #e8f0fe 100%);
+  background:
+    linear-gradient(135deg, 
+      rgba(232,244,248,0.82) 0%,
+      rgba(240,247,255,0.82) 50%, 
+      rgba(232,240,254,0.82) 100%),
+    url('../images/maverick.jpg') center / cover no-repeat;
   border-radius: 8px;
 }
 
