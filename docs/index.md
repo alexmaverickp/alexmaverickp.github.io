@@ -34,7 +34,7 @@ and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial 
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/assets/Alex Maverick Pabillaran Resume.v2.pdf){ .md-button }
+[Download CV :material-download:](assets/Alex Maverick Pabillaran Resume.v2.pdf){ .md-button }
 
 ---
 
