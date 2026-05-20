@@ -79,7 +79,9 @@ hide:
 ### B.S. in Agricultural and Biosystems Engineering
 **Central Mindanao University** | *2020 – 2024*
 
-Graduated cum laude. Thesis: "GIS-Based State of On-Farm Corn (*Zea mays*) Mechanization in Southern Bukidnon." Designed 4 farm structure DEDs: Greenhouse, Cold Storage, Machinery Shed, and Swine House.
+Graduated cum laude. 
+Thesis: "GIS-Based State of On-Farm Corn (*Zea mays*) Mechanization in Southern Bukidnon." 
+Designed 4 farm structure DEDs: Greenhouse, Cold Storage, Machinery Shed, and Swine House.
 
 ---
 
