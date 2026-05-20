@@ -79,8 +79,8 @@ nav:
     - "Remote Sensing NDVI Tool": projects/ndvi-tool.md
     - "Unsupervised Land Cover Classification": projects/unsupervised-classification.md
     - "Nature-based Solution: Proposed Riparian Buffer Restoration and Protection Strategy for Pulangui River Basin, Bukidnon": projects/pulangui.md
-    - "Automatic Weather Station Suitability Map": aws-suitability.md
-    - "Watershed Catchment Area Mapping for Water System Development": water-system-development.md
+    - "Automatic Weather Station Suitability Map": projects/aws-suitability.md
+    - "Watershed Catchment Area Mapping for Water System Development": projects/water-system-development.md
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)
