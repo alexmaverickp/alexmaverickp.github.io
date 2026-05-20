@@ -27,4 +27,4 @@ Feel free to reach out through any of the channels below.
 
 ---
 
-[Download CV :material-download:](assets/Alex Maverick Pabillaran Resume.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/Alex Maverick Pabillaran Resume.v2.pdf){ .md-button .md-button--primary }

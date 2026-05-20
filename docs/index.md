@@ -2,20 +2,6 @@
 hide:
   - toc
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR NAME] with your full name (3 places)
-- [ ] Replace [YOUR JOB TITLE] with your current or target role
-- [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
-- [ ] Rewrite the About Me paragraph with your own words
-- [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
-- [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
-- [ ] Edit the skill cards to match your actual skills (add, remove, or rename cards as needed)
-- [ ] Update GitHub and LinkedIn links in the Connect section
-- [ ] Add your CV PDF to docs/assets/ and update the filename in the Download CV button
--->
-
-
 
 <div class="hero">
   <img src="assets/images/IMG_2963a.jpg" alt="Alex Maverick" class="profile-photo">
@@ -30,7 +16,7 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="about-section" markdown>
 <div class="about-text" markdown>
-  
+
 I am an Agricultural and Biosystems Engineer specializing in GIS, Remote Sensing, and geospatial analytics for climate-smart agriculture and environmental systems.
 I work on transforming satellite imagery and spatial datasets into actionable insights using QGIS, Google Earth Engine, and open-source geospatial technologies.
 My work focuses on agricultural mapping, land suitability analysis, watershed and climate monitoring, and decision-support systems for resilient farming communities.
@@ -48,8 +34,7 @@ and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial 
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/Alex Maverick Pabillaran Resume.pdf){ .md-button }
-
+[Download CV :material-download:](assets/assets/Alex Maverick Pabillaran Resume.v2.pdf){ .md-button }
 
 ---
 
@@ -75,11 +60,22 @@ and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial 
     ---
 
     - NDVI & Vegetation Health Analysis
-    - Rainfall & Climate Data Processing
+    - Rainfall & Climate Data Processing (CHIRPS)
     - Soil Moisture Mapping
     - Terrain & Slope Analysis
     - Agricultural & Environmental Monitoring
     - Climate-Smart Agriculture Applications
+
+-   :material-shield-alert:{ .lg .middle } **Hazard & Risk Mapping**
+
+    ---
+
+    - Flood Hazard Mapping (100-Year Return Period)
+    - Landslide Hazard Mapping
+    - Storm Surge Advisory Mapping (Levels 1–4)
+    - ESA Copernicus DEM Processing
+    - HEC-RAS Integration & Raster Analysis
+    - Barangay-Level Geospatial Risk Assessment
 
 -   :material-database:{ .lg .middle } **Data Analytics & Geospatial Data**
 
@@ -96,9 +92,11 @@ and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial 
     ---
 
     - UAV Mission Planning
-    - Drone-based Agricultural Monitoring
+    - Drone-based Aerial Photography
     - DJI Mavic 3 Air Operations
-    - Field Data Collection & Ground Validation
+    - Field Surveys & Ground Validation
+    - Discharge Measurement (Bucket & Float Methods)
+    - Water Sample Collection
 
 -   :material-sprout:{ .lg .middle } **Agriculture & Decision Support**
 
@@ -112,17 +110,29 @@ and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial 
 
 -   :material-satellite-variant:{ .lg .middle } **Remote Sensing & Image Classification**
 
+    ---
+
     - Unsupervised Classification in Google Earth Engine
     - Supervised Classification using Google Earth Engine
     - Satellite Image Interpretation & Analysis
-    - Sentinel-1 & Sentinel-2 Data Processing
+    - Sentinel-1, Sentinel-2 & Landsat-8 Data Processing
+
+ -   :material-ruler-square:{ .lg .middle } **Engineering Design**
+
+    ---
+
+    - Detailed Engineering Design (DED)
+    - Program of Work (POW) & Unit Price Analysis
+    - Farm Structure Design (Greenhouse, Cold Storage, Machinery Shed, Swine House)
+    - AutoCAD
+    - SketchUp & Enscape (3D Visualization)
+    - Agricultural Infrastructure Planning
 
 </div>
-
 
 ---
 
 ## Connect
 
-[GitHub](https://github.com/[alexmaverickp.github.io]){ .md-button }
+[GitHub](https://github.com/alexmaverickp){ .md-button }
 [LinkedIn](https://linkedin.com/in/alex-m-p/){ .md-button }
