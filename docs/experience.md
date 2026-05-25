@@ -24,8 +24,10 @@ hide:
 ### GIS and Remote Sensing Staff — Provincial Science and Technology Office – Bukidnon (Project SARAI Northern Mindanao)
 *July 2025 – April 2026 | Malaybalay City, Philippines*
 
-- Produced NDVI, Rainfall, and AWS Suitability Maps for Northern Mindanao using QGIS, Google Earth Engine, and Google Slides.
-- Conducted 4 CL-SEAMS trainings with 60 participants each; planned 5 SARAI CeNTRO meetings, 4 LGU coordination meetings, and 1 partner SUC engagement.
+- Produced NDVI, Rainfall, and AWS Suitability Maps for Northern Mindanao using QGIS and Google Earth Engine.
+- Conducted field validation for AWS installations using suitability maps as spatial reference; prepared site validation reports submitted to LGUs.
+- Co-conducted 4 CL-SEAMS trainings (60 participants each) covering NDVI crop monitoring (rice, corn, sugarcane, cassava), flood mapping, digitizing, and QGIS and GEE fundamentals.
+- Represented Project SARAI and DOST in stakeholder presentations to DA-PCAF, provincial government officials, investors, and farmers across regional events including the Bukidnon Coffee and Bamboo Summit, RSTW 2025, and the Project SARAI Grand Launching.
 
 </div>
 
@@ -55,6 +57,7 @@ hide:
 ### Agricultural and Biosystems Engineer I — Agricultural and Biosystems Engineering Division
 *March 2025 – July 2025 | Malaybalay City, Philippines*
 
+- Co-digitized proposed farm-to-market roads for the entire Malaybalay City using QGIS as part of a collaborative mapping team.
 - Produced Detailed Engineering Design (DED), Program of Work (POW), and Unit Price Analysis for 2 Multi-Commodity Sheds and a Multi-Purpose Drying Pavement using QGIS, AutoCAD, SketchUp, Enscape, and Excel.
 - Automated the Water Pump Database using Google Sheets; led irrigation canal and Farm Machinery Equipment inventories.
 
@@ -79,7 +82,7 @@ hide:
 ### B.S. in Agricultural and Biosystems Engineering
 **Central Mindanao University** | *2020 – 2024*
 
-Graduated cum laude. 
+cum laude
 Thesis: "GIS-Based State of On-Farm Corn (*Zea mays*) Mechanization in Southern Bukidnon." 
 Designed 4 farm structure DEDs: Greenhouse, Cold Storage, Machinery Shed, and Swine House.
 
