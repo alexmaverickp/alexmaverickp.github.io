@@ -6,6 +6,8 @@
 
 An interactive web application built on Google Earth Engine that calculates and visualizes the Normalized Difference Vegetation Index (NDVI) for all provinces of the Northern Mindanao Region (Region X), Philippines. Designed as a passion project and presented at an exhibit, the app makes satellite remote sensing engaging and understandable for young audiences — turning complex geospatial science into a hands-on, visual experience.
 
+[Launch Interactive NDVI Explorer](https://alexmaverickpabillaran.users.earthengine.app/view/ndvi-explorer){ .md-button .md-button--primary }
+
 **Study Area:** Northern Mindanao Region (Region X), Philippines — all provinces  
 **Role:** Solo project  
 **Status:** Completed
