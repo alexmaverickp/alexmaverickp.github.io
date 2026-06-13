@@ -12,7 +12,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/NDVIapp.png)
 
-**[Remote Sensing NDVI Tool](ndvi-tool.md)**
+**[Regional Vegetation Health Monitoring System](ndvi-tool.md)**
 
 An interactive web application built on Google Earth Engine that calculates and visualizes the Normalized Difference Vegetation Index (NDVI) for all provinces of the Northern Mindanao Region (Region X), Philippines. Designed as a passion project and presented at an exhibit, the app makes satellite remote sensing engaging and understandable for young audiences — turning complex geospatial science into a hands-on, visual experience.
 
