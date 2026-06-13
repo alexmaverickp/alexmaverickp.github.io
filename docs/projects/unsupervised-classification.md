@@ -1,10 +1,12 @@
-# Unsupervised Land Cover Classification
+# Unsupervised Land Cover Classification App
 
 ![Unsupervised Land Cover Classification – Malaybalay City, Bukidnon](../assets/images/Unsupervised.png)
 
 ## Overview
 
 A machine learning project applying unsupervised K-Means clustering to Landsat 8 satellite imagery to classify land cover across Malaybalay City, Bukidnon, Philippines — down to the barangay level. Built as a personal initiative to explore machine learning in the context of remote sensing, the app generates a 7-class land cover map and provides an interactive barangay-level insight panel with per-class area statistics and export capability.
+
+[Launch App](https://alexmaverickpabillaran.users.earthengine.app/view/unsupervised-land-cover-classification){ .md-button .md-button--primary }
 
 **Study Area:** Malaybalay City, Bukidnon, Philippines — all barangays  
 **Role:** Solo project  
