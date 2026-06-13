@@ -1,4 +1,4 @@
-# Remote Sensing NDVI Tool
+# Regional Vegetation Health Monitoring System
 
 ![NDVI Explorer – Bukidnon Province, Northern Mindanao](../assets/images/NDVIapp.png)
 
