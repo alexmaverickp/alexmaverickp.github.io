@@ -25,13 +25,14 @@ An interactive web application built on Google Earth Engine that calculates and 
 <div class="project-card" markdown>
 ![](../assets/images/Unsupervised.png)
 
-**[Unsupervised Land Cover Classification](unsupervised-classification.md)**
+**[Unsupervised Land Cover Classification App](unsupervised-classification.md)**
 
 A machine learning project applying unsupervised K-Means clustering to Landsat 8 satellite imagery to classify land cover across Malaybalay City, Bukidnon, Philippines — down to the barangay level. Built as a personal initiative to explore machine learning in the context of remote sensing, the app generates a 7-class land cover map and provides an interactive barangay-level insight panel with per-class area statistics and export capability.
 
 `Google Earth Engine` `JavaScript` `Landsat 8`
 
 [View Project →](unsupervised-classification.md){ .md-button }
+[Launch App](https://alexmaverickpabillaran.users.earthengine.app/view/unsupervised-land-cover-classification){ .md-button .md-button--primary }
 </div>
 
 <div class="project-card" markdown>
