@@ -16,7 +16,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 An interactive web application built on Google Earth Engine that calculates and visualizes the Normalized Difference Vegetation Index (NDVI) for all provinces of the Northern Mindanao Region (Region X), Philippines. Designed as a passion project and presented at an exhibit, the app makes satellite remote sensing engaging and understandable for young audiences — turning complex geospatial science into a hands-on, visual experience.
 
-`Google Earth Engine` `ChatGPT Plus` `Claude AI`
+`Google Earth Engine` `JavaScript`
 
 [View Project →](ndvi-tool.md){ .md-button }
 </div>
@@ -28,7 +28,7 @@ An interactive web application built on Google Earth Engine that calculates and 
 
 A machine learning project applying unsupervised K-Means clustering to Landsat 8 satellite imagery to classify land cover across Malaybalay City, Bukidnon, Philippines — down to the barangay level. Built as a personal initiative to explore machine learning in the context of remote sensing, the app generates a 7-class land cover map and provides an interactive barangay-level insight panel with per-class area statistics and export capability.
 
-`Google Earth Engine` `Claude AI`
+`Google Earth Engine` `JavaScript`
 
 [View Project →](unsupervised-classification.md){ .md-button }
 </div>
@@ -42,7 +42,7 @@ This project proposes a nature-based riparian buffer restoration and protection 
 
 The project was developed as an entry to the Geographic Innovations for Development Solutions, Inc. (GRIDS) Mapping Contest with the theme: Enhancing flood management and resilience through nature-based solutions, and was awarded a Consolation Prize.
 
-`QGIS` `Google Earth Engine` `ChatGPT Plus`
+`QGIS` `Google Earth Engine` `ESRI`
 
 [View Project →](pulangui.md){ .md-button }
 </div>
@@ -54,7 +54,7 @@ The project was developed as an entry to the Geographic Innovations for Developm
 
 A GIS-based site suitability analysis identifying the most suitable locations for establishing Automatic Weather Stations (AWS) across the Province of Bukidnon, Philippines. Using the Analytic Hierarchy Process (AHP) as the multi-criteria decision framework, five spatial criteria were weighted and combined to produce a final suitability map classified into four levels — from Not Suitable to Highly Suitable — covering all municipalities of Bukidnon. The output is intended to support data-driven decision-making for weather monitoring infrastructure placement.
 
-`QGIS` `Google Earth Engine` `ChatGPT Plus` 
+`QGIS` `Google Earth Engine` `ESRI` `OpenStreetMap` 
 
 [View Project →](aws-suitability.md){ .md-button }
 </div>
@@ -66,7 +66,7 @@ A GIS-based site suitability analysis identifying the most suitable locations fo
 
 This project involves delineating and mapping the watershed catchment areas of a proposed water source along the Budas River in Balabagan, Lanao del Sur. Using terrain analysis from satellite-derived elevation data, multiple pour points were evaluated to identify viable catchment extents that will inform the feasibility of developing a community water system.
 
-`QGIS` `Google Earth Engine` `ChatGPT Plus` 
+`QGIS` `Google Earth Engine`
 
 [View Project →](water-system-development.md){ .md-button }
 </div>
