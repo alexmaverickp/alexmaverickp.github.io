@@ -19,6 +19,7 @@ An interactive web application built on Google Earth Engine that calculates and 
 `Google Earth Engine` `JavaScript` `Sentinel-2 Harmonized`
 
 [View Project →](ndvi-tool.md){ .md-button }
+[Launch App](https://alexmaverickpabillaran.users.earthengine.app/view/ndvi-explorer){ .md-button .md-button--primary }
 </div>
 
 <div class="project-card" markdown>
