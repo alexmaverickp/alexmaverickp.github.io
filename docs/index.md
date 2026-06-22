@@ -6,8 +6,8 @@ hide:
 <div class="hero">
   <img src="assets/images/IMG_2963a.jpg" alt="Alex Maverick" class="profile-photo">
   <h1>Alex Maverick Pabillaran</h1>
-  <p><strong>Geospatial Intelligence for Climate-Smart Agriculture</strong></p>
-  <p><em>Agricultural & Biosystems Engineer specializing in GIS, Remote Sensing, and Earth Observation using QGIS and Google Earth Engine</em></p>
+  <p><strong>GIS Analyst & Spatial Decision Support Specialist</strong></p>
+  <p><em>Delivering GIS, remote sensing, hazard assessment, infrastructure mapping, watershed analysis, and spatial decision-support solutions using QGIS, Google Earth Engine, and open geospatial technologies.</em></p>
 </div>
 
 ---
@@ -17,11 +17,7 @@ hide:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-I am an Agricultural and Biosystems Engineer specializing in GIS, Remote Sensing, and geospatial analytics for climate-smart agriculture and environmental systems.
-I work on transforming satellite imagery and spatial datasets into actionable insights using QGIS, Google Earth Engine, and open-source geospatial technologies.
-My work focuses on agricultural mapping, land suitability analysis, watershed and climate monitoring, and decision-support systems for resilient farming communities.
-I am passionate about applying geospatial intelligence and Earth observation technologies to real-world challenges in food security, sustainability, and climate resilience,
-and I am currently seeking opportunities in GIS, Remote Sensing, and Geospatial Analytics roles in both local and international environments.
+I am an Agricultural and Biosystems Engineer specializing in GIS, Remote Sensing, and Spatial Analysis. My work supports infrastructure planning, environmental assessment, hazard mapping, watershed management, agriculture, and decision-support applications through reproducible geospatial workflows.
 
 </div>
 
