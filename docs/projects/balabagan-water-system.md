@@ -1,6 +1,6 @@
 # GIS Support for Municipal Water Infrastructure Planning
 
-![Proposed Level III Water System - Municipality of Balabagan](../assets/images/projects/balabagan-water-system/ServiceArea.png)
+![Proposed Level III Water System - Municipality of Balabagan](../assets/images/ServiceArea.png)
 
 ## Overview
 
@@ -42,7 +42,7 @@ Building footprints, road networks, and administrative boundaries were mapped to
 
 Flood hazard information was integrated with settlement and infrastructure data to identify areas potentially exposed to flooding. The outputs supported risk-informed planning and evaluation of proposed infrastructure locations.
 
-![Flood Hazard Map](../assets/images/projects/balabagan-water-system/FloodMap.png)
+![Flood Hazard Map](../assets/images/FloodMap.png)
 
 ---
 
@@ -50,7 +50,7 @@ Flood hazard information was integrated with settlement and infrastructure data 
 
 Landslide susceptibility information was incorporated into the planning process to evaluate potential risks affecting proposed infrastructure and nearby communities. The resulting maps provided additional context for site selection and engineering considerations.
 
-![Landslide Hazard Map](../assets/images/projects/balabagan-water-system/[Rumagurook]Landslide.png)
+![Landslide Hazard Map](../assets/images/[Rumagurook]Landslide.png)
 
 ---
 
