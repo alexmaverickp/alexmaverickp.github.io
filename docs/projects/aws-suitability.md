@@ -1,6 +1,6 @@
 # Automatic Weather Station Suitability Map
 
-![Automatic Weather Station Suitability Map – Province of Bukidnon](../assets/images/AWSport.png)
+![Automatic Weather Station Suitability Map – Province of Bukidnon](../assets/images/AWS_Hillshade.png)
 
 ## Overview
 
