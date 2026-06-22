@@ -50,7 +50,7 @@ The project was developed as an entry to the Geographic Innovations for Developm
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/AWSport.png)
+![](../assets/images/AWS_Hillshade.png)
 
 **[Automatic Weather Station Suitability Map](aws-suitability.md)**
 
