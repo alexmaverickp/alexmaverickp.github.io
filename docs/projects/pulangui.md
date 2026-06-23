@@ -31,12 +31,12 @@ The project was developed as an entry to the Geographic Innovations for Developm
 2. Extracted stream networks and delineated a 30-meter riparian buffer corridor
 3. Reclassified land cover to identify exposed and degraded riparian areas
 4. Developed a Sediment Susceptibility Index (SSI) using:
-   - Slope gradient
-   - Flow accumulation (runoff convergence)
-   - Land cover exposure
-5. Applied raster normalization and weighted overlay analysis to generate basin-scale sediment susceptibility
-6. Intersected susceptibility outputs with degraded riparian zones to generate a risk-informed restoration priority map
-7. Performed visual validation using high-resolution satellite imagery
+            - Slope gradient
+            - Flow accumulation (runoff convergence)
+            - Land cover exposure
+6. Applied raster normalization and weighted overlay analysis to generate basin-scale sediment susceptibility
+7. Intersected susceptibility outputs with degraded riparian zones to generate a risk-informed restoration priority map
+8. Performed visual validation using high-resolution satellite imagery
 
 ### Tools Used
 
