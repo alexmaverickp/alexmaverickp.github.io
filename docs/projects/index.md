@@ -10,29 +10,27 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/NDVIapp.png)
+![](../assets/images/ServiceArea.png)
 
-**[Regional Vegetation Health Monitoring System](ndvi-tool.md)**
+**[Water System Planning Support Through GIS Mapping and Hazard Assessment](water-system-planning.md)**
 
-An interactive web application built on Google Earth Engine that calculates and visualizes the Normalized Difference Vegetation Index (NDVI) for all provinces of the Northern Mindanao Region (Region X), Philippines. Designed as a passion project and presented at an exhibit, the app makes satellite remote sensing engaging and understandable for young audiences — turning complex geospatial science into a hands-on, visual experience.
+An independent GIS consulting engagement delivering 13 report-ready map layouts for a Level III water system feasibility study in Balabagan, Lanao del Sur. Covered service area delineation, infrastructure layout mapping, and multi-hazard assessment (flood, landslide, storm surge) using UP NOAH datasets — with direct field participation as GIS and geotagging specialist for intake source verification.
 
-`Google Earth Engine` `JavaScript` `Sentinel-2 Harmonized`
+`QGIS` `UP NOAH` `Field Survey`
 
-[View Project →](ndvi-tool.md){ .md-button }
-[Launch App](https://alexmaverickpabillaran.users.earthengine.app/view/ndvi-explorer){ .md-button .md-button--primary }
+[View Project →](water-system-planning.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/Unsupervised.png)
+![](../assets/images/Watershed2.png)
 
-**[Unsupervised Land Cover Classification App](unsupervised-classification.md)**
+**[Watershed Catchment Area Mapping for Water System Development](water-system-development.md)**
 
-A machine learning project applying unsupervised K-Means clustering to Landsat 8 satellite imagery to classify land cover across Malaybalay City, Bukidnon, Philippines — down to the barangay level. Built as a personal initiative to explore machine learning in the context of remote sensing, the app generates a 7-class land cover map and provides an interactive barangay-level insight panel with per-class area statistics and export capability.
+This project involves delineating and mapping the watershed catchment areas of a proposed water source along the Budas River in Balabagan, Lanao del Sur. Using terrain analysis from satellite-derived elevation data, multiple pour points were evaluated to identify viable catchment extents that will inform the feasibility of developing a community water system.
 
-`Google Earth Engine` `JavaScript` `Landsat 8`
+`QGIS` `Google Earth Engine` `Copernicus DEM GLO-30`
 
-[View Project →](unsupervised-classification.md){ .md-button }
-[Launch App](https://alexmaverickpabillaran.users.earthengine.app/view/unsupervised-land-cover-classification){ .md-button .md-button--primary }
+[View Project →](water-system-development.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
@@ -62,15 +60,29 @@ A GIS-based site suitability analysis identifying the most suitable locations fo
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/Watershed2.png)
+![](../assets/images/NDVIapp.png)
 
-**[Watershed Catchment Area Mapping for Water System Development](water-system-development.md)**
+**[Regional Vegetation Health Monitoring System](ndvi-tool.md)**
 
-This project involves delineating and mapping the watershed catchment areas of a proposed water source along the Budas River in Balabagan, Lanao del Sur. Using terrain analysis from satellite-derived elevation data, multiple pour points were evaluated to identify viable catchment extents that will inform the feasibility of developing a community water system.
+An interactive web application built on Google Earth Engine that calculates and visualizes the Normalized Difference Vegetation Index (NDVI) for all provinces of the Northern Mindanao Region (Region X), Philippines. Designed as a passion project and presented at an exhibit, the app makes satellite remote sensing engaging and understandable for young audiences — turning complex geospatial science into a hands-on, visual experience.
 
-`QGIS` `Google Earth Engine` `Copernicus DEM GLO-30`
+`Google Earth Engine` `JavaScript` `Sentinel-2 Harmonized`
 
-[View Project →](water-system-development.md){ .md-button }
+[View Project →](ndvi-tool.md){ .md-button }
+[Launch App](https://alexmaverickpabillaran.users.earthengine.app/view/ndvi-explorer){ .md-button .md-button--primary }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/Unsupervised.png)
+
+**[Unsupervised Land Cover Classification App](unsupervised-classification.md)**
+
+A machine learning project applying unsupervised K-Means clustering to Landsat 8 satellite imagery to classify land cover across Malaybalay City, Bukidnon, Philippines — down to the barangay level. Built as a personal initiative to explore machine learning in the context of remote sensing, the app generates a 7-class land cover map and provides an interactive barangay-level insight panel with per-class area statistics and export capability.
+
+`Google Earth Engine` `JavaScript` `Landsat 8`
+
+[View Project →](unsupervised-classification.md){ .md-button }
+[Launch App](https://alexmaverickpabillaran.users.earthengine.app/view/unsupervised-land-cover-classification){ .md-button .md-button--primary }
 </div>
 
 </div>
