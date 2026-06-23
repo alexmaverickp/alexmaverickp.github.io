@@ -76,11 +76,12 @@ nav:
   - Home: index.md
   - Projects:
     - "All Projects": projects/index.md
-    - "Remote Sensing NDVI Tool": projects/ndvi-tool.md
-    - "Unsupervised Land Cover Classification": projects/unsupervised-classification.md
+    - "Water System Planning Support Through GIS Mapping and Hazard Assessment": projects/water-system-planning.md
+    - "Watershed Catchment Area Mapping for Water System Development": projects/water-system-development.md
     - "Nature-based Solution: Proposed Riparian Buffer Restoration and Protection Strategy for Pulangui River Basin, Bukidnon": projects/pulangui.md
     - "Automatic Weather Station Suitability Map": projects/aws-suitability.md
-    - "Watershed Catchment Area Mapping for Water System Development": projects/water-system-development.md
+    - "Remote Sensing NDVI Tool": projects/ndvi-tool.md
+    - "Unsupervised Land Cover Classification": projects/unsupervised-classification.md
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)
