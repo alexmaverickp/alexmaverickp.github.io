@@ -24,7 +24,7 @@ This project provided GIS mapping, watershed analysis, and spatial decision supp
 <div class="project-card" markdown>
 ![](../assets/images/Microhydro.png)
 
-**Watershed Catchment Area Mapping for Microhydro Powerplant Development](water-system-development.md)**
+**[Watershed Catchment Area Mapping for Microhydro Powerplant Development](water-system-development.md)**
 
 This project involved delineating and mapping the watershed catchment area of a proposed weir site along the Budas River in Balabagan, Lanao del Sur, to support the feasibility assessment of a microhydro powerplant. A single pour point was placed at the proposed weir location to establish the contributing drainage area, which would inform hydrological design parameters for the powerplant.
 
