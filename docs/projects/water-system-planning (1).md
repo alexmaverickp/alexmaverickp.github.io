@@ -23,31 +23,9 @@ All deliverables were produced in **PRS 92 / Philippines Zone 5 (EPSG:3125)**, t
 
 ## Map Outputs
 
-### Proposed Service Area and Waterline Layout
-
-![Proposed Service Area Map — Level III Water System, Balabagan, Lanao del Sur](../assets/images/Service_Areas.png)
-
-The proposed service area encompasses six barangays — **Lorenzo, Banago, Narra, Poblacion, Batuan, and Magulalung Occidental** — delineated in green along the Ilana Bay coastal zone. The complete waterline layout is shown with three line types: the **Intake Line** (white) connecting the Rumagurook Spring Source to the Filtration Tank; the **Main Line** (blue) conveying treated water from the filtration point through Magulalung Occidental and into the Banago and Narra corridor; and **Lateral Lines** (yellow) branching through Poblacion, Banago, Narra, and Batuan to reach distribution endpoints.
-
-An inset map zooms to the **Rumagurook Spring Source** in Kapatagan, showing the three candidate intake points (Intake 1, 2, and 3) and the Filtration Tank location — the origin of the entire distribution system. These intake coordinates were GPS-tagged and field-verified during the survey.
-
-*Data: Google Satellite, LGU Balabagan Municipal Boundary | CRS: PRS 92 / Philippines Zone 5*
-
----
-
-### Digitised Built-up Areas of the Proposed Service Area
-
-![Digitised Built-up Areas — Proposed Service Area, Balabagan, Lanao del Sur](../assets/images/ServiceArea.png)
-
-Built-up areas within the service area were manually digitised from high-resolution satellite imagery, yielding a total built-up extent of **0.066 sq.km**. The road network was traced and measured at **23.08 km** — establishing the spatial reference for waterline alignment and distribution planning. Barangay labels confirm coverage across Banago, Lorenzo, and Upper Igabay in this early delineation layer.
-
-*Data: OpenStreetMap, PHL Admin Boundary | CRS: PRS 92 / Philippines Zone 5*
-
----
-
 ### Landslide Hazard Map — Rumagurook Intake Site
 
-![Landslide Hazard Map — Rumagurook Intake Site with Proposed Infrastructure Layout](../assets/images/_Rumagurook_Landslide.png)
+![Landslide Hazard Map — Rumagurook Intake Site with Proposed Infrastructure Layout](../assets/images/[Rumagurook]Landslide.png)
 
 Site-scale landslide hazard map for the Rumagurook intake area, integrating UP NOAH susceptibility data (High / Medium / Low) with the proposed infrastructure layout: Intake 1, 2, and 3 (star symbols); Filtration Building (pink triangle); Mainline (blue); Intake Line (white); and Pipe Crossing 1 (red circle) at the stream crossing. Rumagurook Downstream is marked as a downstream reference.
 
@@ -73,7 +51,7 @@ Municipality-wide flood susceptibility map covering all 22 barangays of Balabaga
 
 | Source | Use |
 |---|---|
-| ESA Copernicus DEM GLO-30 (via Google Earth Engine) | Terrain analysis and DEM preprocessing |
+| Google Earth Pro | Waterline Layout |
 | UP NOAH | Flood, landslide, and storm surge hazard data |
 | Google Satellite / ESRI Basemap | Map layout backgrounds |
 | OpenStreetMap | Road network and administrative boundaries |
@@ -86,7 +64,7 @@ All datasets were reprojected to PRS 92 / Philippines Zone 5 before processing. 
 
 ### Tools
 
-QGIS (spatial analysis, digitisation, cartographic layout production), QGIS Print Layout and Atlas, Google Earth Engine (DEM and satellite data acquisition), Google Earth Pro (survey point plotting and verification), UP NOAH (hazard datasets), OpenStreetMap.
+QGIS (spatial analysis, digitisation, cartographic layout production), Google Earth Pro (survey point plotting and verification), UP NOAH (hazard datasets), OpenStreetMap.
 
 ---
 
@@ -100,7 +78,18 @@ Post-field, GPS-tagged points were plotted in Google Earth Pro and cross-checked
 
 ## Skills Demonstrated
 
-Infrastructure planning map production — service area delineation — waterline layout digitisation — built-up area mapping — flood, landslide, and storm surge hazard assessment (UP NOAH) — multi-barangay cartographic layout production (13 outputs, QGIS Print Layout) — CRS management for LGU submissions — GPS field geotagging — survey point coordination — Google Earth Pro point verification — discharge measurement — DJI Mavic 3 Air aerial photography (image acquisition).
+- Infrastructure planning map production
+- Service area delineation
+- Waterline layout digitisation
+- Built-up area mapping
+- Flood, landslide, and storm surge hazard assessment (UP NOAH)
+- Multi-barangay cartographic layout production (13 outputs, QGIS Print Layout)
+- CRS management for LGU submissions
+- GPS field geotagging
+- Survey point coordination
+- Google Earth Pro point verification
+- Discharge measurement
+- DJI Mavic 3 Air aerial photography (image acquisition).
 
 ---
 
