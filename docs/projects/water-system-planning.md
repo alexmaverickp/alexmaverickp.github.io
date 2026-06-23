@@ -23,6 +23,16 @@ All deliverables were produced in **PRS 92 / Philippines Zone 5 (EPSG:3125)**, t
 
 ## Map Outputs
 
+### Service Area Map — Digitized Built-up Areas
+
+![Service Area Map — Digitized Built-up Areas of the Proposed Service Area, Balabagan, Lanao del Sur](../assets/images/ServiceArea.png)
+
+The service area was delineated to cover the proposed distribution footprint of the Level III water system, encompassing barangays including Banago, Lorenzo, and Upper Igabay along the Ilana Bay coastal zone. Built-up areas were manually digitised from high-resolution satellite imagery, yielding a total digitised built-up area of **0.066 sq.km** — establishing the population centre coverage for system design. The road network within the service area was mapped at **23.08 km** total length, providing the alignment reference for proposed waterline routing.
+
+*Data sources: OpenStreetMap, PHL Admin Boundary | CRS: PRS 92 / Philippines Zone 5*
+
+---
+
 ### Landslide Hazard Map — Rumagurook Intake Site
 
 ![Landslide Hazard Map — Rumagurook Intake Site with Proposed Infrastructure Layout](../assets/images/[Rumagurook]Landslide.png)
