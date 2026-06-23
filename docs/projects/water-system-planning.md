@@ -13,7 +13,7 @@ description: "Independent GIS consulting engagement delivering watershed catchme
 
 ## Overview
 
-This project provided GIS mapping, watershed analysis, and spatial decision support for a Level III water system feasibility assessment in Balabagan, Lanao del Sur, a coastal municipality in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). The engagement combined desktop GIS analysis with direct field survey participation, producing **13 report-ready map layouts** and a watershed catchment analysis alongside a verified spatial dataset of intake sources and survey points.
+This project provided GIS mapping, watershed analysis, and spatial decision support for a Level III water system feasibility assessment in Balabagan, Lanao del Sur, a coastal municipality in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). The engagement combined desktop GIS analysis with direct field survey participation, producing **14 report-ready map layouts** and a watershed catchment analysis alongside a verified spatial dataset of intake sources and survey points.
 
 Desktop work covered watershed delineation of the Budas River intake area, service area delineation, infrastructure layout mapping, and natural hazard assessment across flood, landslide, and storm surge exposure. In the field, I served as the GIS and geotagging specialist within a three-person team, responsible for GPS geotagging of proposed intake sources, survey point recording, and survey coordinate management, while the other members handled rodman duties and the RTK receiver. Field-collected coordinates were subsequently verified against GIS-derived reference points in Google Earth Pro and integrated directly into the map outputs.
 
