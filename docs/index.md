@@ -4,7 +4,7 @@ hide:
 ---
 
 <div class="hero">
-  <img src="assets/images/IMG_2963a.jpg" alt="Alex Maverick" class="profile-photo">
+  <img src="assets/images/IMG_4356.jpeg" alt="Alex Maverick" class="profile-photo">
   <h1>Alex Maverick Pabillaran</h1>
   <p><strong>GIS Analyst & Spatial Decision Support Specialist</strong></p>
   <p><em>Delivering GIS, remote sensing, hazard assessment, infrastructure mapping, watershed analysis, and spatial decision-support solutions using QGIS, Google Earth Engine, and open geospatial technologies.</em></p>
