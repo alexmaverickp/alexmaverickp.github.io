@@ -12,9 +12,9 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/ServiceArea.png)
 
-**[Water System Planning Support Through GIS Mapping and Hazard Assessment](water-system-planning.md)**
+**[Water System Planning Support Through GIS Mapping, Watershed Analysis, and Hazard Assessment](water-system-planning.md)**
 
-An independent GIS consulting engagement delivering 13 report-ready map layouts for a Level III water system feasibility study in Balabagan, Lanao del Sur. Covered service area delineation, infrastructure layout mapping, and multi-hazard assessment (flood, landslide, storm surge) using UP NOAH datasets — with direct field participation as GIS and geotagging specialist for intake source verification.
+This project provided GIS mapping, watershed analysis, and spatial decision support for a Level III water system feasibility assessment in Balabagan, Lanao del Sur, a coastal municipality in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). The engagement combined desktop GIS analysis with direct field survey participation, producing 14 report-ready map layouts and a watershed catchment analysis alongside a verified spatial dataset of intake sources and survey points.
 
 `QGIS` `UP NOAH` `Field Survey`
 
@@ -22,11 +22,11 @@ An independent GIS consulting engagement delivering 13 report-ready map layouts 
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/Watershed2.png)
+![](../assets/images/Microhydro.png)
 
-**[Watershed Catchment Area Mapping for Water System Development](water-system-development.md)**
+**Watershed Catchment Area Mapping for Microhydro Powerplant Development](water-system-development.md)**
 
-This project involves delineating and mapping the watershed catchment areas of a proposed water source along the Budas River in Balabagan, Lanao del Sur. Using terrain analysis from satellite-derived elevation data, multiple pour points were evaluated to identify viable catchment extents that will inform the feasibility of developing a community water system.
+This project involved delineating and mapping the watershed catchment area of a proposed weir site along the Budas River in Balabagan, Lanao del Sur, to support the feasibility assessment of a microhydro powerplant. A single pour point was placed at the proposed weir location to establish the contributing drainage area, which would inform hydrological design parameters for the powerplant.
 
 `QGIS` `Google Earth Engine` `Copernicus DEM GLO-30`
 
